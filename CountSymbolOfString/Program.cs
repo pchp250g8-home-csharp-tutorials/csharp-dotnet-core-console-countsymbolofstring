@@ -18,4 +18,3 @@ Console.WriteLine
     "The symbol \"{0}\" occupies {1}% of the string \"{2}\"",
     (char)chSym, fltPart, strLine
 );
-Console.Read();
